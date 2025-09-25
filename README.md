@@ -35,7 +35,7 @@ IDE: VSCode
 ### 긴급호출
 - 환자 위급상황 발생 시 해당 버튼을 클릭 -> 관제 측에 알림 전송 및 tts 음성안내
 
-
+</br><br>
 ## main src code
 ### runOnLaptop
 - remote PC에서 원격제어를 목적으로 서버 관리
