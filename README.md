@@ -8,7 +8,8 @@
 - **영상** [Project Presentation Video](https://youtu.be/672hE6_kYBc)
  <img width="1272" height="711" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
  <img width="1276" height="709" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
- <img width="2560" height="1600" alt="introduce_3" src="https://github.com/user-attachments/assets/f67ca3b8-444e-4f8e-940e-30a8b001b0d4" />
+ <img width="1866" height="1019" alt="introduce_3" src="https://github.com/user-attachments/assets/9c0644e5-5825-4012-9fa9-1e4fef79548e" />
+
 
 
 
