@@ -22,7 +22,7 @@ IDE: VSCode
 </br>
   
 ## Fuction
-<img width="600" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> <br><br>
+<img width="600" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> <br>
 ### 자율주행
 - 목적지 선택 및 주행 시작 클릭 시 tts로 음성안내 및 서버로 목적지 publishing
 - 서버에서 최적 경로를 연산하여 모터 제어 명령을 subscribe
@@ -35,7 +35,8 @@ IDE: VSCode
 ### 긴급호출
 - 환자 위급상황 발생 시 해당 버튼을 클릭 -> 관제 측에 알림 전송 및 tts 음성안내
 
-</br><br>
+</br>
+
 ## main src code
 ### runOnLaptop
 - remote PC에서 원격제어를 목적으로 서버 관리
