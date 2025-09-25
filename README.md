@@ -1,7 +1,7 @@
-# 데굴이: 자율주행 휠체어 로봇 <br> (Deguli: Autonomous Wheelchair Robot)
+# 데굴이: 대형병원 내 자율주행 휠체어 로봇 <br> (Deguli: Autonomous Wheelchair Robot for Large Hospitals)
 
 ## Project Introducion
-**병원 내 휠체어 이용 환자의 이동성 및 인력 효율 개선**을 목표로, **TurtleBot3**를 기반으로 자율주행 휠체어 로봇을 구현한 팀 프로젝트
+**대형병원 내 휠체어 이용 환자의 이동성 및 인력 효율 개선**을 목표로, **TurtleBot3**를 기반으로 자율주행 휠체어 로봇을 구현한 팀 프로젝트
 
 - **진행 기간** 2023.04.01 ~ 2023.11.22
 - **역할** <br>
@@ -11,14 +11,12 @@
 - **영상** [Project Presentation Video](https://youtu.be/672hE6_kYBc)
  <img width="400" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
  <img width="400" alt="introduce_3" src="https://github.com/user-attachments/assets/9c0644e5-5825-4012-9fa9-1e4fef79548e" />
-
 </br>
 
 ## Tech stack
 ROS1, Python2, Python3, YAML <br>
 UI: PyQt5 <br>
 IDE: VSCode
-
 </br>
   
 ## Fuction
@@ -34,7 +32,6 @@ IDE: VSCode
 
 ### 긴급호출
 - 환자 위급상황 발생 시 해당 버튼을 클릭 -> 관제 측에 알림 전송 및 tts 음성안내
-
 </br>
 
 ## main src code
