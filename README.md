@@ -1,24 +1,23 @@
 # 데굴이: 자율주행 휠체어 로봇 (Deguli: Autonomous Wheelchair Robot)
 
-## Prjoect Introducion
+## Project Introducion
 **병원 내 휠체어 이용 환자의 이동성 및 인력 효율 개선**을 목표로, **TurtleBot3**를 기반으로 자율주행 휠체어 로봇을 구현한 팀 프로젝트
 
-- **역할** turtlebot3 환경설정, 인프라 관리, 파라미터 조정, 코드 테스트 및 보수, 발표자료 제작
 - **진행 기간** 2023.04.01 ~ 2023.11.22
+- **역할**
+  **TurtleBot3 환경을 설정하고 ROS1 기반 인프라를 관리**하여 프로젝트의 안정적 실행을 지원.  
+  로봇 주행 및 UI 동작에 필요한 **파라미터 조정**을 수행하고, 코드 전반에 대한 **테스트 및 유지보수**를 담당.  
+  개발 과정 전반에서 시스템 안정성과 신뢰성을 확보하며 프로젝트 완성도 향상에 기여.
 - **영상** [Project Presentation Video](https://youtu.be/672hE6_kYBc)
- <img width="1272" height="711" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
- <img width="1276" height="709" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
- <img width="1866" height="1019" alt="introduce_3" src="https://github.com/user-attachments/assets/9c0644e5-5825-4012-9fa9-1e4fef79548e" />
-
-
-
+ <img width="400" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
+ <img width="400" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
+ <img width="400" alt="introduce_3" src="https://github.com/user-attachments/assets/9c0644e5-5825-4012-9fa9-1e4fef79548e" />
 
 </br>
 
 ## Tech stack
-python2, python3, ROS1
-
-ui: pyqt5
+ROS1, python2, python3, yaml
+UI: pyqt5
 IDE: vscode
 
 </br>
