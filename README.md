@@ -10,19 +10,19 @@
   개발 과정 전반에서 시스템 안정성과 신뢰성을 확보하며 프로젝트 완성도 향상에 기여.
 - **영상** [Project Presentation Video](https://youtu.be/672hE6_kYBc)
  <img width="400" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
- <img width="400" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
  <img width="400" alt="introduce_3" src="https://github.com/user-attachments/assets/9c0644e5-5825-4012-9fa9-1e4fef79548e" />
 
 </br>
 
 ## Tech stack
-ROS1, python2, python3, yaml
-UI: pyqt5
-IDE: vscode
+ROS1, Python2, Python3, YAML <br>
+UI: PyQt5 <br>
+IDE: VSCode
 
 </br>
   
 ## Fuction
+<img width="600" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
 ### 자율주행
 - 목적지 선택 및 주행 시작 클릭 시 tts로 음성안내 및 서버로 목적지 publishing
 - 서버에서 최적 경로를 연산하여 모터 제어 명령을 subscribe
