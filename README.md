@@ -1,4 +1,5 @@
-# 데굴이: 자율주행 휠체어 로봇 (Deguli: Autonomous Wheelchair Robot)
+# 데굴이: 자율주행 휠체어 로봇 
+# (Deguli: Autonomous Wheelchair Robot)
 
 ## Project Introducion
 **병원 내 휠체어 이용 환자의 이동성 및 인력 효율 개선**을 목표로, **TurtleBot3**를 기반으로 자율주행 휠체어 로봇을 구현한 팀 프로젝트
