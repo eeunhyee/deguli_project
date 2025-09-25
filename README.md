@@ -4,9 +4,13 @@
 **병원 내 휠체어 이용 환자의 이동성 및 인력 효율 개선**을 목표로, **TurtleBot3**를 기반으로 자율주행 휠체어 로봇을 구현한 팀 프로젝트
 
 - **역할** turtlebot3 환경설정, 인프라 관리, 파라미터 조정, 코드 테스트 및 보수, 발표자료 제작
-- **진행 기간** 2023.04.01 ~ 2023.11.22  
->
-> [Project Presentation Video](https://youtu.be/672hE6_kYBc)
+- **진행 기간** 2023.04.01 ~ 2023.11.22
+- **영상** [Project Presentation Video](https://youtu.be/672hE6_kYBc)
+ <img width="1272" height="711" alt="introduce_1" src="https://github.com/user-attachments/assets/2f0f399c-a721-4449-aeb9-3a877dbbe740" />
+ <img width="1276" height="709" alt="introduce_2" src="https://github.com/user-attachments/assets/1c80e79a-208d-4c09-bccc-af69538a0d94" /> 
+ <img width="2560" height="1600" alt="introduce_3" src="https://github.com/user-attachments/assets/f67ca3b8-444e-4f8e-940e-30a8b001b0d4" />
+
+
 
 </br>
 
